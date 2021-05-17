@@ -1,0 +1,39 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+#container{
+    
+
+    width: 400px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: linear-gradient(to right top, #996bd1, #dd68b5, #ff7693, #ff9576, #fdb96a, #f7bf67, #f0c465, #e8ca64, #f2b254, #f9984f, #fd7c53, #fb5f5f);
+    height: 200px;  
+}
+button{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+#purple_btn{
+    background-color: purple;
+}
+#green_btn{
+    background-color: green;
+}
+
+#yellow_btn{
+    background-color: yellow;
+}
